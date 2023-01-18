@@ -1,4 +1,3 @@
-# fotomosaico
-Genera un mosaico de imágenes con una imagen base
+# Mosaic-photo
 
-No se suben las carpetas porque contienen imagenes que pueden cambiar, solo se trabaja con las carpetas e imagenes en forma local
+Generates an image composed by other images by matching average color of each tile with colour of each pixel in original image.
